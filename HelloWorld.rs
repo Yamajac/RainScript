@@ -1,17 +1,11 @@
-print("Hello World!")
+HelloWorld := Hello there mr world!
+print("\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n$HelloWorld$\r\n")
 
+; Comments too!
 
-; supports comments and empty lines
+HoweverManyYouWant := Its all good
+     print("$HoweveRManyYouWant$ yo!")
+     
+print("\r\nA scripting language in Rainmeter! Kinda..")
 
-print("Hello world again!")
-
-
-
-
-; Sorta... variables
-
-print("[#CRLF]Hello!")
-
-
-; And whitespace!
-      print("[#CRLF]Hello!")
+print("\r\nNo lua! :D")
