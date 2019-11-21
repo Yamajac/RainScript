@@ -9,3 +9,6 @@ HoweverManyYouWant := Its all good
 print("\r\nA scripting language in Rainmeter! Kinda..")
 
 print("\r\nNo lua! :D")
+
+
+log(test)
